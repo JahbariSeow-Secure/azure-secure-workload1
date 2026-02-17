@@ -40,3 +40,4 @@ App Service → Defender for Cloud (Security Monitoring)
 - Convert the deployment to Infrastructure as Code (Terraform)
 - Add CI/CD using GitHub Actions
 - Implement authentication with Microsoft Entra ID
+![Resource Group Creation](./screenshots/01-resource-group-creation.png)
