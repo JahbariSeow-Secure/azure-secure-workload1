@@ -15,7 +15,8 @@ The focus of this lab is cloud operations, visibility, and security—not applic
 ---
 
 ## Implementation Details
-
+![Workflow Diagram](./screenshots/workflow-diagram.png)  
+*High-level workflow diagram showing users accessing the App Service, logs flowing into Log Analytics, metrics triggering alerts, and security monitoring via Defender for Cloud.*
 ### 1. Resource Group Creation
 ![Resource Group Creation](./screenshots/01-resource-group-creation.png)  
 Created a dedicated **resource group** to contain all resources for this lab, providing isolation and easy management of Azure assets.
