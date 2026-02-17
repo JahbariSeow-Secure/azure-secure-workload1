@@ -29,17 +29,6 @@ App Service → Defender for Cloud (Security Monitoring)
 - Defender for Cloud enabled to monitor security posture and recommendations
 
 ## Screenshots
-(Insert screenshots here)
-- App Service overview
-- IP restriction rule
-- Log Analytics queries
-- Alert rule configuration
-- Defender for Cloud dashboard
-
-## Next Steps
-- Convert the deployment to Infrastructure as Code (Terraform)
-- Add CI/CD using GitHub Actions
-- Implement authentication with Microsoft Entra ID
 ![Resource Group Creation](./screenshots/01-resource-group-creation.png)
 ![App Service Configuration](./screenshots/02-app-service-configuration.png)
 ![App Running](./screenshots/03-app-running.png)
@@ -50,4 +39,15 @@ App Service → Defender for Cloud (Security Monitoring)
 ![Alert Rule – Action Group](./screenshots/08-alert-rule-action-group.png)
 ![CPU Alert Rule](./screenshots/09-cpu-alert-rule.png)
 ![HTTP Logs](./screenshots/10-http-logs.png)
+- App Service overview
+- IP restriction rule
+- Log Analytics queries
+- Alert rule configuration
+- Defender for Cloud dashboard
+
+## Next Steps
+- Convert the deployment to Infrastructure as Code (Terraform)
+- Add CI/CD using GitHub Actions
+- Implement authentication with Microsoft Entra ID
+
 
