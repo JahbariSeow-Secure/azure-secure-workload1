@@ -41,3 +41,13 @@ App Service → Defender for Cloud (Security Monitoring)
 - Add CI/CD using GitHub Actions
 - Implement authentication with Microsoft Entra ID
 ![Resource Group Creation](./screenshots/01-resource-group-creation.png)
+![App Service Configuration](./screenshots/02-app-service-configuration.png)
+![App Running](./screenshots/03-app-running.png)
+![IP Access Restrictions](./screenshots/04-ip-access-restrictions.png)
+![Diagnostic Settings](./screenshots/05-diagnostic-settings-log-analytics.png)
+![Log Analytics Workspace](./screenshots/06-log-analytics-workspace.png)
+![Action Group](./screenshots/07-action-group.png)
+![Alert Rule – Action Group](./screenshots/08-alert-rule-action-group.png)
+![CPU Alert Rule](./screenshots/09-cpu-alert-rule.png)
+![HTTP Logs](./screenshots/10-http-logs.png)
+
