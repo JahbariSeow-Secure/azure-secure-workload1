@@ -65,12 +65,6 @@ Captured **incoming HTTP requests** to monitor traffic patterns, detect anomalie
 - Applied **IP-based access restrictions** to reduce exposure  
 - Monitored recommendations for best-practice security compliance  
 
----
 
-## Next Steps
-
-1. Convert the deployment to **Infrastructure as Code (Terraform)**  
-2. Implement **CI/CD** using GitHub Actions for automated deployments  
-3. Add **authentication with Microsoft Entra ID** to secure the application  
 
 
